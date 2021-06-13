@@ -8,7 +8,6 @@ class Solution {
       max = m;
     }
   }
-      
   int i =0;
   for(int e:candies){
     if(e+extraCandies >= max){
